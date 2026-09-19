@@ -1,0 +1,632 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4%2F6a71e13a418c0dbf3f92f4f4_Cta bg video_mp4.mp4
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c46a71e13a418c0dbf3f92f4f4_Cta bg video_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4%2F6a71e13a418c0dbf3f92f4f4_Cta bg video_poster.0000000.jpg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c46a71e13a418c0dbf3f92f4f4_Cta bg video_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4%2F6a71e13a418c0dbf3f92f4f4_Cta bg video_webm.webm
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c46a71e13a418c0dbf3f92f4f4_Cta bg video_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71721b139bc8cdd5e4e9b8_Site Logo.png
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71721b139bc8cdd5e4e9b8_Site Logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71721b9448840726212429_Site Logo.png
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71721b9448840726212429_Site Logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71721bb6fface3a705eb8a_Site Logo.png
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71721bb6fface3a705eb8a_Site Logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71721bc6384dd17b839247_Site Logo.png
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71721bc6384dd17b839247_Site Logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71721beeade8d98d1bcef5_Site Logo.png
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71721beeade8d98d1bcef5_Site Logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7173b4c0f078cfaec9030a_NyghtSerif-Regular.ttf
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7173b4c0f078cfaec9030a_NyghtSerif-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71746389ca5ba40100be4e_Switzer-Regular.otf
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71746389ca5ba40100be4e_Switzer-Regular.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71a821ee996b52ae762cba_Brand Logo.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71a821ee996b52ae762cba_Brand Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a71c4a64d114675ed41ec9a_line.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a71c4a64d114675ed41ec9a_line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72cc0b6750579d514f8f8e_arrow.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72cc0b6750579d514f8f8e_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff0329b8c538ef1f9a2c_m9.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff0329b8c538ef1f9a2c_m9.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff032cca27ae4e005441_m5.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff032cca27ae4e005441_m5.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff034d2b3c9f3e6a6007_m10.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff034d2b3c9f3e6a6007_m10.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff037e8b2ee88c413f93_m12.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff037e8b2ee88c413f93_m12.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff0383d4a9bbf6719455_m7.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff0383d4a9bbf6719455_m7.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff039ea88b9196351a3b_m3.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff039ea88b9196351a3b_m3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff03bbce16266a8f70a7_m11.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff03bbce16266a8f70a7_m11.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff03bbce16266a8f70cd_m8.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff03bbce16266a8f70cd_m8.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff03c2a9f2862d017d69_m6.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff03c2a9f2862d017d69_m6.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff03c7cefd0c6d9be0dc_m4.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff03c7cefd0c6d9be0dc_m4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff0483d4a9bbf67194aa_m2.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff0483d4a9bbf67194aa_m2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a72ff04b603c22c9d4d404d_m1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a72ff04b603c22c9d4d404d_m1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7308a53b4d3db69cde1fc9_follower.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7308a53b4d3db69cde1fc9_follower.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a731cbd04dfc9b3d5b5232a_f2.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a731cbd04dfc9b3d5b5232a_f2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a731cbd4a903f2dc3a74a7a_f4.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a731cbd4a903f2dc3a74a7a_f4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a731cbd7055b18a814e6188_f3.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a731cbd7055b18a814e6188_f3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a731cbdabebb4c74904e6bd_f5.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a731cbdabebb4c74904e6bd_f5.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e44_Company logo (4).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e44_Company logo (4).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e45_Company logo (6).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e45_Company logo (6).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e46_Company logo (5).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e46_Company logo (5).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e47_Company logo (2).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e47_Company logo (2).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e48_Company logo (1).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e48_Company logo (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76dc33f4e3c41569860e49_Company logo (3).svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76dc33f4e3c41569860e49_Company logo (3).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a76edaa9e4a4c8559ced571_Frame.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a76edaa9e4a4c8559ced571_Frame.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a799d29f70803556079e696_card 4.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a799d29f70803556079e696_card 4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a799d29fa47480b3ec5a0c1_card 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a799d29fa47480b3ec5a0c1_card 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a799d2a70e58609b608889e_Rectangle 18.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a799d2a70e58609b608889e_Rectangle 18.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a799d2af70803556079e6d9_card 3.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a799d2af70803556079e6d9_card 3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7aad0dc5b820f6f4e732a3_client 1 (1).avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7aad0dc5b820f6f4e732a3_client 1 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7ab26e384548c8c7e905f4_client 2.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7ab26e384548c8c7e905f4_client 2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7ab334a98c59ca559f624b_Client 4.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7ab334a98c59ca559f624b_Client 4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7ab334f6aa6f7eceb7f636_client 3.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7ab334f6aa6f7eceb7f636_client 3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7b0d539c22b49105028004_dot.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7b0d539c22b49105028004_dot.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7c098b6588ef69bd7d8797_minus.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7c098b6588ef69bd7d8797_minus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7c1c2355e0c9aa2ee5cb2a_insights.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7c1c2355e0c9aa2ee5cb2a_insights.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a7c20157c23571b18ce2e52_proimg.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a7c20157c23571b18ce2e52_proimg.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8021d40ffe83c8199109b2_Ellipse 5.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8021d40ffe83c8199109b2_Ellipse 5.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8021d412dc249ddec8dedd_Ellipse 3.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8021d412dc249ddec8dedd_Ellipse 3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8021d4257ecdddd894002c_Ellipse 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8021d4257ecdddd894002c_Ellipse 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8021d47a61e6094ac8f50a_Ellipse 4.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8021d47a61e6094ac8f50a_Ellipse 4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8021d48a81bd41835b397a_Ellipse 2.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8021d48a81bd41835b397a_Ellipse 2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8044756d5fc73fd9251b19_Rectangle 1225.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8044756d5fc73fd9251b19_Rectangle 1225.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a80447588fa937978961cba_Rectangle 1226.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a80447588fa937978961cba_Rectangle 1226.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a804475a5af034799714efa_Rectangle 183.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a804475a5af034799714efa_Rectangle 183.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a804475bc3496a1ed83d564_Rectangle 1227.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a804475bc3496a1ed83d564_Rectangle 1227.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a854ab5b66b3431dd3e2f3a_mingcute_phone-fill.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a854ab5b66b3431dd3e2f3a_mingcute_phone-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a85507f0f7b071c18710910_ion_mail.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a85507f0f7b071c18710910_ion_mail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a85507f9f47814a478da194_weui_location-filled.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a85507f9f47814a478da194_weui_location-filled.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a855be4aa995f57476d71fe_contact hero.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a855be4aa995f57476d71fe_contact hero.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a86c04549bea6037d6a388d_Frame.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a86c04549bea6037d6a388d_Frame.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a86c045524fa6439376359b_tick-02.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a86c045524fa6439376359b_tick-02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a8941729d08318be003a35d_Rectangle 173.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a8941729d08318be003a35d_Rectangle 173.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a90143d34be08a3cc29e574_Rectangle 182 (1).avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a90143d34be08a3cc29e574_Rectangle 182 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a9283dbffd1d7cd1ce39e79_198 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a9283dbffd1d7cd1ce39e79_198 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a9283dc1a528791e966c852_101 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a9283dc1a528791e966c852_101 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a9283dc81c79909744f136c_bg 2 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a9283dc81c79909744f136c_bg 2 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a9283dc9788fe6f79b06d56_Rectangle 12.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a9283dc9788fe6f79b06d56_Rectangle 12.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a9284d00324f0047eff9a50_Rectangle 178.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a9284d00324f0047eff9a50_Rectangle 178.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a92858e0324f0047effafb4_Rectangle 180.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a92858e0324f0047effafb4_Rectangle 180.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/6a92b8c9593b3c5426e8fc48_m001t0320_c_podium_13sep22 1.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\6a92b8c9593b3c5426e8fc48_m001t0320_c_podium_13sep22 1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/css/onyxgrid-template.webflow.shared.5b117883b.css
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\css\onyxgrid-template.webflow.shared.5b117883b.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.3c700166.9d7f2751b03fed4e.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.3c700166.9d7f2751b03fed4e.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.6093a115.95851503f2a9fd26.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.6093a115.95851503f2a9fd26.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.acada4b0.856a10b1b6fe5a04.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.acada4b0.856a10b1b6fe5a04.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.de0d5e32.2da42991a41fd7c7.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.de0d5e32.2da42991a41fd7c7.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.schunk.12f66a7a1043bbab.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.schunk.12f66a7a1043bbab.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.schunk.b2d797714f35d740.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.schunk.b2d797714f35d740.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a708e9ff979f9d47c3649c4/js/webflow.schunk.e661489a1c70db1e.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a708e9ff979f9d47c3649c4\js\webflow.schunk.e661489a1c70db1e.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927cc9a47c5a15d58d2694_Rectangle 1234.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927cc9a47c5a15d58d2694_Rectangle 1234.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927cd5ecfd31d7eaec6ab8_Rectangle 1235.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927cd5ecfd31d7eaec6ab8_Rectangle 1235.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927cdda878118b8254dec5_Rectangle 1236.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927cdda878118b8254dec5_Rectangle 1236.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ceb786b6276b7dc2eb5_Rectangle 1237.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ceb786b6276b7dc2eb5_Rectangle 1237.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927cf6c9d963523d2cd6ee_Rectangle 1238.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927cf6c9d963523d2cd6ee_Rectangle 1238.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927d3276618b95ead30851_Rectangle 1239.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927d3276618b95ead30851_Rectangle 1239.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ea8e4d791d307890855_Rectangle 1228.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ea8e4d791d307890855_Rectangle 1228.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ebea290446c1b8ccbad_Rectangle 1229.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ebea290446c1b8ccbad_Rectangle 1229.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ecac6adf99f9ac4d934_Rectangle 1233.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ecac6adf99f9ac4d934_Rectangle 1233.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ed62993773c5d3bbaad_Rectangle 1231.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ed62993773c5d3bbaad_Rectangle 1231.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a927ee6f6d54791aad59133_Rectangle 1232.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a927ee6f6d54791aad59133_Rectangle 1232.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9280c4a878118b82555209_Rectangle 1248.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9280c4a878118b82555209_Rectangle 1248.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9280dbe4d791d307895695_Rectangle 1247.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9280dbe4d791d307895695_Rectangle 1247.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9280f71a26e3c11e99fd11_Rectangle 1244.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9280f71a26e3c11e99fd11_Rectangle 1244.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92810c852082eebb9cdcf5_Rectangle 1243.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92810c852082eebb9cdcf5_Rectangle 1243.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92815e756efc2f1f8dc332_Rectangle 1240.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92815e756efc2f1f8dc332_Rectangle 1240.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92ae8d2993773c5d432e31_Rectangle 1238.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92ae8d2993773c5d432e31_Rectangle 1238.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92ae9abacbbe3bff8f489d_Rectangle 1239.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92ae9abacbbe3bff8f489d_Rectangle 1239.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aea454f3b33aa89fa45e_Rectangle 1237.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aea454f3b33aa89fa45e_Rectangle 1237.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aeb12bc3f7884ff544e3_Rectangle 1236.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aeb12bc3f7884ff544e3_Rectangle 1236.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aebc8dc921d3799a80bb_Rectangle 1235.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aebc8dc921d3799a80bb_Rectangle 1235.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aec6edd2ab005c3e65be_Rectangle 1234.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aec6edd2ab005c3e65be_Rectangle 1234.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aed272714f0a5fabb601_Rectangle 1233.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aed272714f0a5fabb601_Rectangle 1233.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a92aedbe4d791d30790b551_Rectangle 1232.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a92aedbe4d791d30790b551_Rectangle 1232.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fabd9d20af0d6ba3162e1_Rectangle 1241.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fabd9d20af0d6ba3162e1_Rectangle 1241.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fabe72feede340d947124_Rectangle 1242.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fabe72feede340d947124_Rectangle 1242.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fabf05165954a30be0285_Rectangle 1245.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fabf05165954a30be0285_Rectangle 1245.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fabfa720d060051397e1b_Rectangle 1246.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fabfa720d060051397e1b_Rectangle 1246.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fac030b48453437400225_Rectangle 1249.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fac030b48453437400225_Rectangle 1249.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a81a248e13ef13a2c46fb15/6a9fac0b73862f4b02dfbfad_Rectangle 1250.avif
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\6a81a248e13ef13a2c46fb15\6a9fac0b73862f4b02dfbfad_Rectangle 1250.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\gsap\3.15.0\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\gsap\3.15.0\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\gsap\3.15.0\SplitText.min.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a708e9ff979f9d47c3649c4
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://onyxgrid-template.webflow.io/
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/401
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\401.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/404
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\404.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/about
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/changelog
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\changelog.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/checkout
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\checkout.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/contact
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/building-digital-interfaces-that-balance-emotion-with-functional-simplicity
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\building-digital-interfaces-that-balance-emotion-with-functional-simplicity.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/creating-distinctive-brand-identities-through-light-texture-and-contrast
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\creating-distinctive-brand-identities-through-light-texture-and-contrast.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/designing-digital-experiences-that-feel-intuitive-immersive-and-effortless
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\designing-digital-experiences-that-feel-intuitive-immersive-and-effortless.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/how-art-direction-turns-abstract-ideas-into-powerful-visual-stories
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\how-art-direction-turns-abstract-ideas-into-powerful-visual-stories.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/how-minimalist-design-directly-drives-enterprise-revenue-scaling
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\how-minimalist-design-directly-drives-enterprise-revenue-scaling.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/moving-beyond-conventional-design-to-create-brands
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\moving-beyond-conventional-design-to-create-brands.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/why-outdated-user-experiences-kill-your-saas-conversions
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\why-outdated-user-experiences-kill-your-saas-conversions.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/insights/why-strong-visual-systems-make-complex-brands-easier-to-remember
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\insights\why-strong-visual-systems-make-complex-brands-easier-to-remember.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/instructions
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\instructions.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/licenses
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\licenses.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio/apex-pay-interface
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio\apex-pay-interface.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio/nexa-finance-dashboard
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio\nexa-finance-dashboard.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio/nova-finance-interface
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio\nova-finance-interface.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio/orbit-payment-interface
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio\orbit-payment-interface.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/portfolio/pulse-pay-experience
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\portfolio\pulse-pay-experience.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/pricing
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\pricing.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/product/small-business
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\product\small-business.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/product/start-up
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\product\start-up.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/brand-identity
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\brand-identity.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/content-creation
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\content-creation.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/digital-marketing
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\digital-marketing.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/motion-graphics
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\motion-graphics.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/ui-ux-design
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\ui-ux-design.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/services/web-development
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\services\web-development.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/style-guide
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\style-guide.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/utility/interaction
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\utility\interaction.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/utility/privacy-policy
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\utility\privacy-policy.html
+Content Type: text/html
+
+Uri: https://onyxgrid-template.webflow.io/utility/terms-condition
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\utility\terms-condition.html
+Content Type: text/html
+
+Uri: https://unpkg.com/lenis@1.1.20/dist/lenis.min.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\lenis@1.1.20\dist\lenis.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/lenis@1.2.3/dist/lenis.css
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\lenis@1.2.3\dist\lenis.css
+Content Type: text/css
+
+Uri: https://validation-worker.createsomething.workers.dev/app-validator/snippet/review.js
+File Name: D:\portfolio projects\behlim group\onyxgrid-template.webflow.io\app-validator\snippet\review.js
+Content Type: text/javascript
+
