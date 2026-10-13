@@ -1,4 +1,4 @@
-﻿html {
+html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   font-family: sans-serif;
@@ -2166,7 +2166,7 @@ textarea.w-input, textarea.w-select {
   --text-extra-large--line-height: var(--_base---line-height--line-height-10x);
   --text-extra-large--font-weight: var(--_base---font-weight--semi-bold);
   --text-extra-large--letter-spacing: var(--_base---spacing-letter--spacing-letter-1x);
-  --_color---accent-color--accent-1: #ff4e00;
+  --_color---accent-color--accent-1: #db3b0b;
   --text-learge--font-family: var(--_base---font-family--your-body-font);
   --text-learge--font-size: 18px;
   --text-learge--line-height: var(--_base---line-height--line-height-10x);

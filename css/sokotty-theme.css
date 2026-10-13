@@ -1,0 +1,465 @@
+/**
+ * Sokotty Voyages — Official Brand Design Foundation
+ * Role: Medical travel and tourism
+ *
+ * M A I N   C O L O U R : #DB3B0B (RGB 219, 59, 11)
+ * Night brown : #210A00 (Logo text)
+ * Depth gradient : Main #DB3B0B -> 800 #651B05 (135°)
+ * Light gradient : 300 #EC957B -> Main #DB3B0B (135°)
+ *
+ * Monochrome Tint Scale:
+ *   50:  #FCEFEB (13.60:1)
+ *  100:  #F9E0D8 (12.14:1)
+ *  200:  #F3BCAC (9.17:1)
+ *  300:  #EC957B (6.66:1)
+ *  400:  #E36641 (4.54:1)
+ *  500:  #DB3B0B (4.52:1) — Main brand colour
+ *  600:  #B43009 (6.24:1)
+ *  700:  #8C2607 (8.77:1)
+ *  800:  #651B05 (12.26:1)
+ *  900:  #3D1103 (16.41:1)
+ *
+ * Typography:
+ *  - Headings & quotes : Playfair Display (Serif)
+ *  - Documents & body  : DM Sans (Sans-serif)
+ *  - Logo only         : Montserrat (ExtraBold · Medium)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat:wght@500;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('./NeonCursor.css');
+
+
+:root {
+  /* ==========================================================================
+     1. BRAND COLORS & TINT SCALE
+     ========================================================================== */
+  --sv-color-main: #DB3B0B;
+  --sv-color-main-rgb: 219, 59, 11;
+  --sv-color-night-brown: #210A00;
+
+  /* Monochrome Tint Scale */
+  --sv-tint-50: #FCEFEB;
+  --sv-tint-100: #F9E0D8;
+  --sv-tint-200: #F3BCAC;
+  --sv-tint-300: #EC957B;
+  --sv-tint-400: #E36641;
+  --sv-tint-500: #DB3B0B; /* Main */
+  --sv-tint-600: #B43009;
+  --sv-tint-700: #8C2607;
+  --sv-tint-800: #651B05;
+  --sv-tint-900: #3D1103;
+
+  /* Functional Role Assignments */
+  --sv-bg-light: var(--sv-tint-50);
+  --sv-bg-subtle: var(--sv-tint-100);
+  --sv-graphic-accent: var(--sv-tint-300);
+  --sv-graphic-element: var(--sv-tint-400);
+  --sv-interactive: var(--sv-tint-500);
+  --sv-interactive-hover: var(--sv-tint-600);
+  --sv-interactive-active: var(--sv-tint-700);
+  --sv-text-dark: var(--sv-tint-900);
+  --sv-surface-dark: var(--sv-tint-800);
+
+  /* ==========================================================================
+     2. BRAND GRADIENTS
+     ========================================================================== */
+  /* Brand Signature 4-Stop Gradient: 300 #EC957B -> Main #DB3B0B -> 600 #B43009 -> 800 #651B05 · 135° */
+  --sv-gradient-signature: linear-gradient(
+    135deg,
+    #EC957B 0%,
+    #DB3B0B 38%,
+    #B43009 65%,
+    #651B05 100%
+  );
+
+  /* Depth: Multi-stop rich gradient for covers, banners, full visuals, and interactive actions */
+  --sv-gradient-depth: linear-gradient(
+    135deg,
+    #EC957B 0%,
+    #DB3B0B 38%,
+    #B43009 65%,
+    #651B05 100%
+  );
+
+  /* Light: 300 #EC957B -> Main #DB3B0B · 135° (Accents, illustrations) */
+  --sv-gradient-light: linear-gradient(135deg, #EC957B 0%, #DB3B0B 100%);
+
+  /* Soft radial ambient glow for dark luxury aesthetics */
+  --sv-glow-ambient: radial-gradient(circle at 50% 50%, rgba(219, 59, 11, 0.18) 0%, rgba(101, 27, 5, 0.05) 50%, transparent 80%);
+
+  /* ==========================================================================
+     3. TYPOGRAPHY TOKENS
+     ========================================================================== */
+  --sv-font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --sv-font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --sv-font-logo: 'Montserrat', sans-serif;
+
+  /* ==========================================================================
+     4. OVERRIDES FOR TEMPLATE CSS VARIABLES
+     ========================================================================== */
+  --_color---accent-color--accent-1: #DB3B0B !important;
+  --_color---text-color--text-color-primary: #DB3B0B !important;
+  --_base---font-family--your-body-font: var(--sv-font-body) !important;
+}
+
+/* ==========================================================================
+   GLOBAL TYPOGRAPHY APPLICATION
+   ========================================================================== */
+body {
+  font-family: var(--sv-font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings: Playfair Display */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5,
+.hero-title, .portfolio-title,
+.about-hero-title, .section-title,
+.heading-large, .heading-medium {
+  font-family: var(--sv-font-heading) !important;
+  letter-spacing: -0.01em;
+}
+
+/* Paragraphs & UI Body: DM Sans */
+p, .paragraph, .body-text, .text-regular, .text-small,
+.details-para-text, .nav-link, .button-text, .footer-link,
+.card-text, .faq-answer {
+  font-family: var(--sv-font-body);
+}
+
+/* Logo and brand descriptors */
+.brand-name, .logo-text, .font-brand {
+  font-family: var(--sv-font-logo);
+}
+
+/* Text selection */
+::selection {
+  background-color: var(--sv-color-main);
+  color: #FFFFFF;
+}
+
+::-moz-selection {
+  background-color: var(--sv-color-main);
+  color: #FFFFFF;
+}
+
+/* Custom smooth scrollbar */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+/* Custom smooth scrollbar with signature gradient */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A0A0A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--sv-gradient-signature) !important;
+  border-radius: 999px;
+  border: 2px solid #0A0A0A;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  filter: brightness(1.2);
+}
+
+/* ==========================================================================
+   BRAND COMPONENTS & INTERACTIVE ELEMENTS
+   ========================================================================== */
+
+/* Primary Action Buttons: 4-Stop Signature Gradient */
+.button-text-wrap {
+  background: var(--sv-gradient-signature) !important;
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.button-icon-wrap {
+  background: var(--sv-gradient-signature) !important;
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.button-text {
+  font-family: var(--sv-font-body) !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.02em;
+}
+
+.primary-button:hover .button-text-wrap,
+.primary-button:hover .button-icon-wrap {
+  filter: brightness(1.14);
+  box-shadow: 0 12px 30px -4px rgba(219, 59, 11, 0.6);
+  transform: translateY(-1px);
+}
+
+/* White / Secondary Button Variants */
+.button-text-wrap:where(.w-variant-783a3052-1d7d-1078-429a-bb7261dbc0aa),
+.button-icon-wrap:where(.w-variant-783a3052-1d7d-1078-429a-bb7261dbc0aa) {
+  background: #FFFFFF !important;
+  color: var(--sv-color-night-brown) !important;
+}
+
+.primary-button:where(.w-variant-783a3052-1d7d-1078-429a-bb7261dbc0aa):hover .button-text-wrap,
+.primary-button:where(.w-variant-783a3052-1d7d-1078-429a-bb7261dbc0aa):hover .button-icon-wrap {
+  background: var(--sv-tint-100) !important;
+}
+
+/* Section Labels & Badges */
+.section-label {
+  border-color: rgba(219, 59, 11, 0.35) !important;
+}
+
+.section-label .dot {
+  background: var(--sv-gradient-signature) !important;
+  box-shadow: 0 0 14px rgba(219, 59, 11, 0.9);
+  animation: sv-pulse-glow 2.5s infinite;
+}
+
+@keyframes sv-pulse-glow {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+    box-shadow: 0 0 12px rgba(219, 59, 11, 0.8);
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0.85;
+    box-shadow: 0 0 18px rgba(219, 59, 11, 1);
+  }
+}
+
+/* Category & Service Card Tags with Signature Gradient */
+.card-tag {
+  background: var(--sv-gradient-signature) !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 4px 14px rgba(219, 59, 11, 0.35);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+/* Process Step Numbers & Big Indices with Gradient Text */
+.card-number {
+  background: var(--sv-gradient-signature) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  font-family: var(--sv-font-heading) !important;
+  display: inline-block;
+}
+
+/* Numeric Stat Highlights with Signature Gradient Text */
+.counter-text,
+.agency-counter {
+  background: var(--sv-gradient-signature) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  display: inline-block;
+  font-family: var(--sv-font-heading) !important;
+  font-weight: 700 !important;
+}
+
+/* Hero Accent Divider Line */
+.white-line {
+  background: var(--sv-gradient-signature) !important;
+  height: 2px !important;
+  border: none !important;
+  box-shadow: 0 0 14px rgba(219, 59, 11, 0.5);
+}
+
+/* Navigation Links & Active State */
+.nav-link:hover,
+.nav-link.w--current,
+.nav-dropdown-item.w--current {
+  color: var(--sv-color-main) !important;
+}
+
+.nav-link::after {
+  background: var(--sv-gradient-signature);
+}
+
+/* Header Top WhatsApp / Contact Link */
+.header-top {
+  border-bottom: 2px solid transparent !important;
+  border-image: var(--sv-gradient-signature) 1 !important;
+}
+
+.header-top-link:hover {
+  color: var(--sv-color-main);
+}
+
+/* Floating Funnel Consultation CTA */
+.floating-funnel-cta {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 998;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 22px;
+  background: var(--sv-gradient-signature) !important;
+  color: #FFFFFF !important;
+  font-family: var(--sv-font-body);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 999px;
+  box-shadow: 0 12px 32px -4px rgba(219, 59, 11, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.floating-funnel-cta svg {
+  width: 17px;
+  height: 17px;
+  stroke: #FFFFFF;
+}
+
+.floating-funnel-cta:hover {
+  transform: translateY(-3px) scale(1.02);
+  filter: brightness(1.1);
+  box-shadow: 0 18px 40px -4px rgba(219, 59, 11, 0.7);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Language Switcher */
+.lang-switcher-toggle:hover {
+  border-color: var(--sv-color-main) !important;
+  color: var(--sv-tint-100) !important;
+}
+
+.lang-switcher-item.active {
+  background: var(--sv-gradient-signature) !important;
+  color: #FFFFFF !important;
+}
+
+.lang-switcher-item:hover:not(.active) {
+  background-color: var(--sv-tint-50) !important;
+  color: var(--sv-tint-900) !important;
+}
+
+/* Featured Sections with Signature Gradient */
+.section.about-section {
+  background: var(--sv-gradient-signature) !important;
+  position: relative;
+  overflow: visible !important;
+}
+
+.section.cta-section,
+.cta-banner-wrapper {
+  background: var(--sv-gradient-signature) !important;
+  position: relative;
+  overflow: hidden;
+}
+
+.cta-banner-wrapper::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(236, 149, 123, 0.15) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.section.about-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at 30% 30%, rgba(236, 149, 123, 0.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+
+/* Form inputs & Focus states */
+input:focus, textarea:focus, select:focus {
+  border-color: var(--sv-color-main) !important;
+  box-shadow: 0 0 0 3px rgba(219, 59, 11, 0.25) !important;
+  outline: none !important;
+}
+
+/* Submit and Action Buttons */
+.password-submit-button,
+.submit-button-wrap .submit-button,
+.checkout-submit-button,
+.checkout-button {
+  background: var(--sv-gradient-signature) !important;
+  color: #FFFFFF !important;
+  border: none !important;
+}
+
+/* ==========================================================================
+   UTILITY CLASSES (Tint Scale, Gradients & Roles)
+   ========================================================================== */
+
+/* Backgrounds */
+.bg-sv-main          { background-color: var(--sv-color-main) !important; }
+.bg-sv-gradient,
+.bg-sv-signature     { background: var(--sv-gradient-signature) !important; color: #FFFFFF !important; }
+.bg-sv-depth         { background: var(--sv-gradient-depth) !important; color: #FFFFFF !important; }
+.bg-sv-light         { background: var(--sv-gradient-light) !important; }
+.bg-sv-50            { background-color: var(--sv-tint-50) !important; }
+.bg-sv-100           { background-color: var(--sv-tint-100) !important; }
+.bg-sv-200           { background-color: var(--sv-tint-200) !important; }
+.bg-sv-300           { background-color: var(--sv-tint-300) !important; }
+.bg-sv-400           { background-color: var(--sv-tint-400) !important; }
+.bg-sv-500           { background-color: var(--sv-tint-500) !important; }
+.bg-sv-600           { background-color: var(--sv-tint-600) !important; }
+.bg-sv-700           { background-color: var(--sv-tint-700) !important; }
+.bg-sv-800           { background-color: var(--sv-tint-800) !important; }
+.bg-sv-900           { background-color: var(--sv-tint-900) !important; }
+.bg-sv-night-brown   { background-color: var(--sv-color-night-brown) !important; }
+
+/* Text colors */
+.text-sv-main        { color: var(--sv-color-main) !important; }
+.text-sv-night-brown { color: var(--sv-color-night-brown) !important; }
+.text-sv-300         { color: var(--sv-tint-300) !important; }
+.text-sv-400         { color: var(--sv-tint-400) !important; }
+.text-sv-600         { color: var(--sv-tint-600) !important; }
+.text-sv-700         { color: var(--sv-tint-700) !important; }
+.text-sv-800         { color: var(--sv-tint-800) !important; }
+.text-sv-900         { color: var(--sv-tint-900) !important; }
+
+/* Borders */
+.border-sv-main      { border-color: var(--sv-color-main) !important; }
+.border-sv-300       { border-color: var(--sv-tint-300) !important; }
+.border-sv-400       { border-color: var(--sv-tint-400) !important; }
+.border-sv-800       { border-color: var(--sv-tint-800) !important; }
+
+/* Fonts */
+.font-playfair       { font-family: var(--sv-font-heading) !important; }
+.font-dm-sans        { font-family: var(--sv-font-body) !important; }
+.font-montserrat     { font-family: var(--sv-font-logo) !important; }
+
+/* Gradient Text Utilities */
+.gradient-text,
+.text-gradient,
+.text-sv-gradient {
+  background: var(--sv-gradient-signature) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  display: inline-block;
+}
+
+/* ==========================================================================
+   NEON CURSOR OVERRIDE FOR LEGACY FOLLOWER
+   ========================================================================== */
+.mouse-follower-wrap,
+.follower {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+

@@ -1,0 +1,74 @@
+/* NeonCursor.css */
+.neon-cursor-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 999999;
+  overflow: hidden;
+  transition: opacity 0.3s ease;
+}
+
+.cursor-main {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ffa04d 0%, #ec6517 70%, #d44d00 100%);
+  box-shadow:
+    0 0 10px rgba(236, 101, 23, 0.9),
+    0 0 20px rgba(255, 150, 50, 0.6),
+    inset 0 0 4px rgba(255, 255, 255, 0.7);
+  pointer-events: none;
+  will-change: transform;
+  z-index: 3;
+}
+
+.cursor-trail {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid rgb(236, 101, 23);
+  box-shadow:
+    0 0 12px rgba(236, 101, 23, 0.45),
+    inset 0 0 6px rgba(236, 101, 23, 0.2);
+  pointer-events: none;
+  will-change: transform, border-color, border-width;
+  z-index: 2;
+  transition: border-color 0.25s ease, border-width 0.25s ease, box-shadow 0.25s ease;
+}
+
+.cursor-glow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle,
+    rgba(236, 101, 23, 0.75) 0%,
+    rgba(255, 150, 50, 0.35) 45%,
+    rgba(236, 101, 23, 0) 70%
+  );
+  filter: blur(8px);
+  pointer-events: none;
+  will-change: transform, opacity;
+  opacity: 0.4;
+  z-index: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* Hide custom cursor follower on touch / mobile devices */
+@media (hover: none) and (pointer: coarse) {
+  .neon-cursor-container {
+    display: none !important;
+  }
+}
