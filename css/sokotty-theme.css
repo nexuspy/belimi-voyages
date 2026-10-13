@@ -174,14 +174,18 @@ p, .paragraph, .body-text, .text-regular, .text-small,
    BRAND COMPONENTS & INTERACTIVE ELEMENTS
    ========================================================================== */
 
-/* Primary Action Buttons: 4-Stop Signature Gradient */
+/* Primary Action Buttons: Solid Brand Color */
+.primary-button {
+  gap: 8px !important;
+}
+
 .button-text-wrap {
-  background: var(--sv-gradient-signature) !important;
+  background: var(--sv-color-main) !important;
   transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .button-icon-wrap {
-  background: var(--sv-gradient-signature) !important;
+  background: var(--sv-color-main) !important;
   transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
@@ -193,8 +197,9 @@ p, .paragraph, .body-text, .text-regular, .text-small,
 
 .primary-button:hover .button-text-wrap,
 .primary-button:hover .button-icon-wrap {
-  filter: brightness(1.14);
-  box-shadow: 0 12px 30px -4px rgba(219, 59, 11, 0.6);
+  background: var(--sv-interactive-hover, #B43009) !important;
+  filter: none !important;
+  box-shadow: 0 12px 30px -4px rgba(219, 59, 11, 0.45);
   transform: translateY(-1px);
 }
 
@@ -394,10 +399,19 @@ input:focus, textarea:focus, select:focus {
 .submit-button-wrap .submit-button,
 .checkout-submit-button,
 .checkout-button {
-  background: var(--sv-gradient-signature) !important;
+  background: var(--sv-color-main) !important;
   color: #FFFFFF !important;
   border: none !important;
+  transition: all 0.3s ease;
 }
+
+.password-submit-button:hover,
+.submit-button-wrap .submit-button:hover,
+.checkout-submit-button:hover,
+.checkout-button:hover {
+  background: var(--sv-interactive-hover, #B43009) !important;
+}
+
 
 /* ==========================================================================
    UTILITY CLASSES (Tint Scale, Gradients & Roles)
